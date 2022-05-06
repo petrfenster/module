@@ -25,6 +25,7 @@ func PrintTest() {
 		"red":   "#ff0000",
 		"green": "#f5f5f5",
 		"blue":  "#4ba345",
+		"jdsk":  "henene",
 	}
 
 	colours["white"] = "#ffffff"
