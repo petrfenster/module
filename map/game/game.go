@@ -9,3 +9,7 @@ func game() {
 func PrintGame() {
 	fmt.Println("Game works!")
 }
+
+func PrintTwo() {
+	fmt.Println("Second test")
+}
