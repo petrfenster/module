@@ -1,3 +1,3 @@
-module github.com/petrfenster/cards
+module github.com/petrfenster/module
 
 go 1.18
