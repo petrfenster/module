@@ -13,3 +13,7 @@ func PrintGame() {
 func PrintTwo() {
 	fmt.Println("Second test")
 }
+
+func PrintThree() {
+	fmt.Println("Three")
+}
